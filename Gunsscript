@@ -1,0 +1,393 @@
+--Give All Script Made by OmarXploits
+--Enjoy
+--Note: This script only works in Prison life
+
+
+
+----------------------------------------------------------------------------
+ 
+local A_1 = game:GetService("Workspace")["Prison_ITEMS"].giver["Remington 870"].ITEMPICKUP
+local Event = game:GetService("Workspace").Remote.ItemHandler
+Event:InvokeServer(A_1)
+
+
+-----------------------------------------------------------------------
+ 
+local A_1 = game:GetService("Workspace")["Prison_ITEMS"].giver["AK-47"].ITEMPICKUP
+local Event = game:GetService("Workspace").Remote.ItemHandler
+Event:InvokeServer(A_1)
+
+
+-----------------------------------------------------------
+
+ 
+local A_1 = game:GetService("Workspace")["Prison_ITEMS"].single["Crude Knife"].ITEMPICKUP
+local Event = game:GetService("Workspace").Remote.ItemHandler
+Event:InvokeServer(A_1)
+
+---------------------------------------------------------------
+ 
+local A_1 = game:GetService("Workspace")["Prison_ITEMS"].single.Hammer.ITEMPICKUP
+local Event = game:GetService("Workspace").Remote.ItemHandler
+Event:InvokeServer(A_1)
+
+
+
+------------------------------------------------------------------------------------------
+ 
+local A_1 = game:GetService("Workspace")["Prison_ITEMS"].giver.M9.ITEMPICKUP
+local Event = game:GetService("Workspace").Remote.ItemHandler
+Event:InvokeServer(A_1)
+
+
+
+
+
+
+
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "Notification";
+	Text = "Made by OmarXploits#4197";
+	Icon = "http://www.roblox.com/asset/?id=7531479763"})
+Duration = 16; wait(25)
+
